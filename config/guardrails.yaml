@@ -1,0 +1,18 @@
+guardrails:
+  competitors:
+    - ABC education 
+    - MindChamp
+  off_topic:
+    - politics
+    - religion
+    - adult content
+    - violence
+    - cryptocurrency
+    - drugs
+  jailbreak:
+    - ignore previous instructions
+    - ignore your programming
+    - bypass
+    - DAN
+    - do anything now
+    - pretend you can

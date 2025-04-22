@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# history
+*.history
+
+# macOS
+.DS_Store
+
+
+# requirements
+requirements.txt
+
 # Distribution / packaging
 .Python
 build/
